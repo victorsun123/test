@@ -1,7 +1,3 @@
 # Databricks notebook source
-first line
-second line
-third line
-line 5
+new stuff
 # COMMAND ----------
-line 4
