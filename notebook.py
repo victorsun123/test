@@ -6,3 +6,10 @@ third line
 # COMMAND ----------
 
 line 4
+
+# COMMAND ----------
+
+import numpy as np
+
+# COMMAND ----------
+
