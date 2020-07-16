@@ -1,3 +1,2 @@
 hello
-bye
-adding changes
+adding a new line
