@@ -1,6 +1,6 @@
 # Databricks notebook source
 new stuff
-remote commit
+remote commi
 
 # COMMAND ----------
 
@@ -10,6 +10,10 @@ second tab
 
 third tab
 
+
+# COMMAND ----------
+
+import numpy
 
 # COMMAND ----------
 
