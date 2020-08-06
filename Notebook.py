@@ -1,2 +1,5 @@
 # Databricks notebook source
-hello
+import numpy as np
+
+# COMMAND ----------
+
