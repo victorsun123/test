@@ -13,4 +13,13 @@ new cell
 
 # COMMAND ----------
 
-fdfd
+print("hello world")
+
+# COMMAND ----------
+
+x = np.array([1,2,3])
+2 * x
+
+# COMMAND ----------
+
+
