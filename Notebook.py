@@ -1,5 +1,5 @@
 # Databricks notebook source
-import numpy as np
+import numpy as npfdfdfdfdf
 
 # COMMAND ----------
 
@@ -12,4 +12,4 @@ new cell
 
 # COMMAND ----------
 
-fdfd
+fdfd save 
