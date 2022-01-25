@@ -3,16 +3,6 @@ import numpy as np
 
 # COMMAND ----------
 
-blah a\fdfdfdfdf dfdfdfdffdfdfd
-hellofdfddf
-change
-
-# COMMAND ----------
-
-new cell
-
-# COMMAND ----------
-
 print("hello world")
 
 # COMMAND ----------
