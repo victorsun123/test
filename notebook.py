@@ -1,6 +1,5 @@
 # Databricks notebook source
 # DBTITLE 1,Import Class Library
-# MAGIC 
 # MAGIC %run ./Import_class_library
 
 # COMMAND ----------
